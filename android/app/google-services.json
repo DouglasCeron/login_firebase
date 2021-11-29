@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519341104749",
+    "project_id": "shoescart-29879",
+    "storage_bucket": "shoescart-29879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519341104749:android:0719d8f7c50685643e6964",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519341104749-pe72ibq46mc67f6krvstj9ne8f9kf579.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Tz1OUNFsru5V7gda0ORsgDEqDSkQ4Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519341104749-pe72ibq46mc67f6krvstj9ne8f9kf579.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
